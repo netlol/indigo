@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: 測試title
+bio: 測試bio
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 測試description
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://netlol.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
