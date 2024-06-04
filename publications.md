@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ## Publications
 
 **學位論文**
